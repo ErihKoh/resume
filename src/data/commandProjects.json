@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "BarberShop",
+    "link": "https://goitacademy.github.io/parcel-project-template/",
+    "tech": "HTML5, CSS3"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://adya27.github.io/js-project-group4/",
+    "tech": "JavaScript"
+  }
+]
