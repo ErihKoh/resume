@@ -1,5 +1,5 @@
 import Wrapper from './components/Wrapper';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/SideBar';
 import AboutMe from './components/AboutMe';
 import contacts from './data/contacts.json';
 import techSkills from './data/techSkills.json';
