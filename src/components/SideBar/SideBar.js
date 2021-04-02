@@ -3,7 +3,7 @@ import TechSkills from '../TechSkills';
 import SoftSkills from '../SoftSkills';
 import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
-import myPhoto from '../../img/photo.jpg';
+import myPhoto from '../../img/photo_emodji.jpg';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
